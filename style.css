@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    background-color: blueviolet;
+}
+
+/* div {
+    border: 2px solid green;
+} */
+
+img {
+    border-radius: 50%;
+    padding: 2px;
+    background-color: black;
+}
+
+.foto-desc {
+    padding: 10px;
+    display: inline-block;
+}
+
+.desc{
+    padding-left: 60px;
+}
+
+.opa {
+    padding: 10px;
+    display: inline-block;
+    position: absolute;
+    top: 250px;
+}
+
+.bao {
+    padding: 40px;
+    border: 10;
+}
+
+ul li:hover {
+    font-weight: bold;
+}
+
+.ice:active {
+    font-size: 100px;
+}
+
+.ice:hover {
+    cursor: pointer;
+}
+
+.cara {
+    font-size: xx-small;
+}
+.cara:hover {
+    font-size: 1em;
+}
